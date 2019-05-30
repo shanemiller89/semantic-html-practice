@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 500px;
+  margin: auto;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 6px;
+  margin-top: 8px;
+}
+
+.profile {
+  margin: 25px 0 25px 0;
+}
+
+.portrait {
+  float: left;
+}
+
+.info_rep li {
+  float: left;
+  margin-left: 30px;
+}
+
+.more_info {
+  clear: left;
+}
